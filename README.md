@@ -52,7 +52,7 @@ The model uses **Transfer Learning** and **Image Augmentation** to improve perfo
 # ▶️ Installation
 
 ```bash id="r8m4lc"
-git clone 
+git clone https://github.com/RahulArora0603/Image-Classifier-Xception-model.git
 ```
 
 ```bash id="g3dn8m"
